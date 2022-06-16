@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines for the individual and team papers of
+  the course, and an example of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -36,7 +38,7 @@ The purpose of the assignment is to develop your ability to use the conceptual f
 
 Student work is courtesy of the MIT student, and is used with permission.
 
-Camp Kesem MIT: A Three Lens Analysis ([PDF]({{< baseurl >}}/resources/mit15_668f10_paper01))
+Camp Kesem MIT: A Three Lens Analysis ({{% resource_link 07a532b7-b85d-360a-f41d-705007b3eb59 "PDF" %}})
 
 Team Paper
 ----------

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with slide
+  presentations from selected lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ LECTURE NOTES
 Introduction and overview
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_668f10_lec01))
+({{% resource_link a8571f92-16db-ac81-9446-f39e6ad46904 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Introduction and overview
 Work and careers: Past, present, and future
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_668f10_lec02))
+({{% resource_link 452bee44-28d6-9f27-aba3-d5275d101b9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Work and careers: Past, present, and future
 Leading and facilitating teams: An engineering team exercise
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_668f10_lec03))
+({{% resource_link 55c658be-dd58-18e9-a931-89fafa975039 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Leading and facilitating teams: An engineering team exercise
 Organizations: Past, present, future
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_668f10_lec04))
+({{% resource_link b38ba63a-6a44-335b-bfc7-916f53f5bb4a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Organizations: Past, present, future
 Organizational analysis: Strategic design lens
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_668f10_lec05))
+({{% resource_link 15d9a6ec-33f7-75d1-de0a-42559354ec04 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Organizational analysis: Strategic design lens
 Organizational analysis: Political lens
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_668f10_lec06))
+({{% resource_link cde490a2-f978-6d98-cf10-5589e36644a6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Putting the political lens to work: Influencing upward in organizations
 Organizational analysis: Cultural lens
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_668f10_lec08))
+({{% resource_link ce6fd0ab-e631-e1cb-31dc-24134c5585d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Teams in organizations
 Team processes: Strategies for building a high performance team
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_668f10_lec12))
+({{% resource_link 2624f25a-3d3a-ddf7-63a6-8c03f0aaa37c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ Midterm exam
 Introduction to negotiations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_668f10_lec14))
+({{% resource_link caee9660-6c0a-9b35-f794-3113f6e49660 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +203,7 @@ Introduction to negotiations
 Recruitment and job offer negotiation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_668f10_lec15))
+({{% resource_link 6a0dea19-984f-f554-8ea5-f3197c3667ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +227,7 @@ Interest-based bargaining in action: Riggs Engineering case study
 Leadership and change: Introductions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit15_668f10_lec17))
+({{% resource_link 01d29d81-bab6-9e5c-8cd1-728a5722fc53 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +251,7 @@ Leadership and change (cont.)
 Leadership continued: The Big Dig, Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit15_668f10_lec19))
+({{% resource_link 532fc0f1-fc47-b57e-e59d-088239755315 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
