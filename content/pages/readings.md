@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings for the course along with
+  information on the course texts, additional readings, and course notes.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4f246974-183f-2e08-aca6-b0d8cc6e4b8e
 ---
@@ -51,7 +56,7 @@ Work and careers: Past, present, and future
 {{< tdopen >}}
 
 
-"Navigating the World of Work." September 2010. ([PDF]({{< baseurl >}}/resources/mit15_668f10_read02)) (Courtesy of Thomas Kochan, John Paul Ferguson, Helen Hsi, and Ryan Hammond. Used with permission.)
+"Navigating the World of Work." September 2010. ({{% resource_link cc0e1afc-a376-cc57-e70b-a6b2053153e2 "PDF" %}}) (Courtesy of Thomas Kochan, John Paul Ferguson, Helen Hsi, and Ryan Hammond. Used with permission.)
 
 Barley, Stephen, and Gideon Kunda. "Contracting: A New Form of Professional Practice." _Academy of Management Perspectives_ 20, no. 1 (2006): 45-66.
 
@@ -248,9 +253,9 @@ Begin: \[Fisher and Ury\].
 
 "Negotiation and Conflict Resolution." Module 12 in \[Ancona\].
 
-"Negotiation Simulation Ground Rules." ([PDF]({{< baseurl >}}/resources/mit15_668f10_read14)) (Courtesy of Jared Curhan. Used with permission.)
+"Negotiation Simulation Ground Rules." ({{% resource_link 9d0d6443-a6db-e7ee-01c0-cfad9b177006 "PDF" %}}) (Courtesy of Jared Curhan. Used with permission.)
 
-Case: An Alarming Night. ([PDF]({{< baseurl >}}/resources/mit15_668f10_read14a)) (Courtesy of Mary P. Rowe. Used with permission.)
+Case: An Alarming Night. ({{% resource_link eded8a52-7ca0-a6ed-619c-c2c7dc90df33 "PDF" %}}) (Courtesy of Mary P. Rowe. Used with permission.)
 
 
 {{< tdclose >}}
@@ -368,7 +373,7 @@ Organizational change: MassDOT case
 Managing the innovation process
 {{< tdclose >}}
 {{< tdopen >}}
-"Where do High Tech Commercial Innovations Come From?" ([PDF]({{< baseurl >}}/resources/mit15_668f10_read22)) (Courtesy of Lewis M. Branscomb. Used with permission.)
+"Where do High Tech Commercial Innovations Come From?" ({{% resource_link 67b40af5-23e1-2215-5315-30ad39b275f1 "PDF" %}}) (Courtesy of Lewis M. Branscomb. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -416,7 +421,7 @@ Team reports on change project
 Inventing the future: Wrap-up
 {{< tdclose >}}
 {{< tdopen >}}
-Final course note: Takeaways. ([PDF]({{< baseurl >}}/resources/mit15_668f10_read25)) (Courtesy of Andrew Erickson. Used with permission.)
+Final course note: Takeaways. ({{% resource_link a361f6ad-0d64-de0a-072b-faf0e2ffe76a "PDF" %}}) (Courtesy of Andrew Erickson. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
